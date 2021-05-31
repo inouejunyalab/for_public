@@ -9,3 +9,4 @@ We tested the framework in the generation of low-carbon-steel microstructures fr
   - A. Van Oord, O. Vinyals, and K. Kavukcuoglu, Neural discrete representation learning, in Proceedings of the 31st International Conference on Neural Information Processing Systems (2017).
 - PixelCNN
   - A. Van Oord, N. Kalchbrenner, O. Vinyals, L. Espeholt, A. Graves, and K. Kavukcuoglu, Conditional image generation with pixelcnn decoders, in Proceedings of the 30th International Conference on Neural Information Processing Systems (2016)
+  - A. Van Oord, N. Kalchbrenner, and K. Kavukcuoglu, Pixel recurrent neural networks, in Proceedings of The 33rd International Conference on Machine Learning (2016).
