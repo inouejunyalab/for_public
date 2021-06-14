@@ -1,4 +1,7 @@
 # Stochastic characterization and reconstruction of material microstructures by VQVAE and PixelCNN
+
+
+# Stochastic characterization and reconstruction of material microstructures by VQVAE and PixelCNN
 This notebook contains the code for constructing a Vector Quantized Variational Auto-Encoder (VQVAE) and Pixel Convolutional Neural Network (PixelCNN) for characterization and reconstruction of material microstructures. 
 
 ## Example: lo-carbon-steel microstructure
