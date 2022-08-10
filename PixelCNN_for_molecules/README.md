@@ -1,6 +1,9 @@
 
 # Exploration of chemical space guided by PixelCNN for fragment-based de novo drug discovery
-This notebook was developed using Google Colaboratory.
+This notebook was developed using Google Colaboratory. The molecular data used in this notebook is shared by Aspuru Guzik group in the following URL.
+
+https://raw.githubusercontent.com/aspuru-guzik-group/chemical_vae/main/models/zinc_properties/250k_rndm_zinc_drugs_clean_3.csv
+
 ## Authors:
 Satoshi Noguchi and Junya Inoue
 
