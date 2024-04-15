@@ -5,7 +5,7 @@ This notebook contains the code for Bayesian inverse inference based on generati
 We demonstrate the applicability of this framework by predicting the mechanical properties of dual-phase steel microstructures.
 
 ## Example dataset
-We prepare the dataset of artificial dual-phase steel images. The dataset can be downloaded [here](https://drive.google.com/drive/folders/1mTMfJdswntl6OoVWeiEWHYtxK54Qul3I?usp=share_link).
+We prepare the dataset of artificial dual-phase steel images. The dataset can be downloaded [here](https://drive.google.com/file/d/1MbmGsb0KSwG8yWcFTmTIqi9hzjOwHnph/view?usp=share_link).
 If you use the dataset, please cite the following paper.
 
 - S. Noguchi, H. Wang, and J. Inoue, Identification of microstructures critically affecting material properties using machine learning framework based on metallurgists' thinking process, Scientific Reports (2022).
